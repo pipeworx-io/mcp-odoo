@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/odoo",
   "title": "Odoo",
   "description": "Odoo MCP Pack — ERP/CRM via Odoo's external JSON-RPC API.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/odoo",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-odoo",
