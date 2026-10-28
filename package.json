@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-odoo",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Odoo MCP Pack — ERP/CRM via Odoo's external JSON-RPC API.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f05dcaf11b461d06f3de0b39fa70c88e0e2b2743433d981e5dc2be197fecfe21",
-    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
+    "sourceHash": "v1-16bc22670e88ca69d417ae1504abc70fbccbf65eb6edc63f25e98b77169849cb",
+    "sourceCommit": "f54ad77e789f27fe393978f9c080b5b18c87bb4f"
   }
 }
